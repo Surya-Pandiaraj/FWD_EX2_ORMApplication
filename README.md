@@ -5,7 +5,7 @@
 ## EX. No. 2 : ORM APPLICATION
 
 ## AIM :
-To develop a Django application to store and retrieve data from Car Inventory Database using Object Relational Mapping(ORM).
+To develop a Django application to store and retrieve data from Movies Database using Object Relational Mapping(ORM).
 
 ## ENTITY RELATIONSHIP DIAGRAM :
 <img width="799" height="678" alt="image" src="https://github.com/user-attachments/assets/a697cc03-d185-4c1a-b5e1-8e93b7aea489" />
